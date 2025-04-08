@@ -1,39 +1,39 @@
-# 👋 Olá! Seja bem-vindo ao meu GitHub!
+# 👋 Hello! Welcome to my GitHub
 
-Sou um desenvolvedor **Back-End Java** focado em construir soluções eficientes, seguras e escaláveis.  
-Aqui você encontrará projetos com foco em **Java**, **Spring Boot**, **APIs REST** e bancos de dados como **MySQL**.
+I'm a passionate **Back-End Java Developer** focused on building efficient, secure, and scalable solutions.  
+Here you'll find projects built with **Java**, **Spring Boot**, **REST APIs**, and **MySQL** databases.
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## 🛠️ Technologies & Tools
 
-- **Linguagens**: Java, SQL  
+- **Languages**: Java, SQL  
 - **Frameworks**: Spring Boot, Spring Security, Spring Data JPA, Hibernate  
-- **Banco de Dados**: MySQL  
-- **Testes**: JUnit, Mockito  
-- **Outros**: Docker, Git, GitHub, Swagger, JWT  
-- **Foco**: Desenvolvimento Back-End, APIs RESTful, Microsserviços, Clean Code
+- **Databases**: MySQL  
+- **Testing**: JUnit, Mockito  
+- **Others**: Docker, Git, GitHub, Swagger, JWT  
+- **Main Focus**: Back-End Development, RESTful APIs, Microservices, Clean Architecture
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EleeTricz&layout=compact&theme=radical)  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EleeTricz&show_icons=true&theme=radical)
 
 ---
 
-## 🔥 Contribuições Recentes
+## 🔥 Contribution Streak
 
 [![GitHub Activity](https://github-readme-streak-stats.herokuapp.com/?user=EleeTricz&theme=dark)](https://git.io/streak-stats)
 
 ---
 
-💡 Sempre codando, sempre aprendendo! Atualmente focado em me aprofundar no ecossistema **Spring Boot** e boas práticas de **engenharia de software back-end**.
+💡 Always coding, always learning. Currently deepening my knowledge in the **Spring ecosystem** and **clean software engineering practices**.
 
 ---
 
-## 🌐 Vamos nos conectar!
+## 🌐 Let's Connect!
 
 <div> 
   <a href="https://www.youtube.com/channel/UCvPXU0qmnlnmcD94XgXTUxQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
